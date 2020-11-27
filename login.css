@@ -1,0 +1,72 @@
+header{
+    background-color: mediumblue;
+    Padding:2%;
+    font-weight:bolder;
+    color:aliceblue;
+    text-align:center;
+    font-size:350%;
+}
+
+#first{
+    background-color:bisque;
+    text-align: center;
+    Padding:1.5%;
+    Font-size:200%;
+    Margin:0 15% 0 15%;
+}
+#second{
+    Padding:1.5%;
+    Margin:0 25%;
+    Background-color:gainsboro;
+    width:40%;
+    font-size:150%;
+    border-radius:5px;
+  border:2px;
+  height: 25%;
+}
+#third{
+    Padding:1.5%;
+    Margin:0 25%;
+    Background-color:gainsboro;
+    width:40%;
+    font-size:150%;
+    border-radius:5px;
+  border:2px;
+  height: 25%;
+}
+#fourth{
+    Background-color:mediumblue;
+    Color:aliceblue;
+    Padding:1.5%;
+    Margin:0 25%;
+    width:44%;
+    font-size:200%;
+    border-radius:5%;
+} 
+
+#fifth{
+    margin:0% 20%;
+}
+#sixth{
+    Background-color:forestgreen;
+    Color:aliceblue;
+    Padding:1.5%;
+    Margin:0 25%;
+    width:44%;
+    font-size:200%;
+    border-radius:5%;
+}
+#seventh{
+    font-size:200%;
+}
+Ul{
+    list-style:none ;
+}
+#eighth{
+    Margin:0% 40%;
+    Font-size :200%;
+    
+    justify-content:normal;
+}
+
+  
